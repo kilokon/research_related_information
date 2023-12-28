@@ -2,5 +2,6 @@
 
 
 ## Useful Links
-[Crossref](https://www.crossref.org/) - open metadata
-[Research Organization Registry](https://ror.org/) - open metadata
+
+- [Crossref](https://www.crossref.org/) - open metadata
+- [Research Organization Registry](https://ror.org/) - open metadata
